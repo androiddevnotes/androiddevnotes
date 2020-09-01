@@ -22,6 +22,6 @@
 
 ## :memo: Contributing
 
-See [contributing.md](contributing.md)
+See [contributing.md](https://github.com/androiddevnotes/androiddevnotes/blob/master/contributing.md)
 
 <h1>:hatching_chick:</h1>
