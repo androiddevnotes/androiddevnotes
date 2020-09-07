@@ -22,15 +22,19 @@
 
 ## :santa: Socials
 
+- [GitHub](https://github.com/androiddevnotes)
+
 - [Discord](https://discord.gg/vBnEhuC)
+
+- [Twitter](https://twitter.com/androiddevnotes)
+
+- [Instagram](https://www.instagram.com/androiddevnotes)
 
 - [YouTube](https://www.youtube.com/channel/UCQATLaT0xKkSm-KKVQzpu0Q)
 
 - [Medium](https://medium.com/@androiddevnotes)
 
-- [Twitter](https://twitter.com/androiddevnotes)
 
-- [Instagram](https://www.instagram.com/androiddevnotes)
 
 ## :memo: Contributing
 
