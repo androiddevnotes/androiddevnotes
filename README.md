@@ -32,10 +32,6 @@
 
 - [Instagram](https://www.instagram.com/androiddevnotes)
 
-See [contributing.md](https://github.com/androiddevnotes/androiddevnotes/blob/master/contributing.md)
-
-<h1>:hatching_chick:</h1>
-
 ## :memo: Contributing
 
 See [contributing.md](https://github.com/androiddevnotes/androiddevnotes/blob/master/contributing.md)
