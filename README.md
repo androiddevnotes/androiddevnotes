@@ -20,7 +20,7 @@
 
 **Android Dev Notes** aims to be the starting point for Android App Developers to find the finest open-source projects, notes, tutorials, and tips and tricks.
 
-## :person_fencing: Socials
+## :santa: Socials
 
 - [Discord](https://discord.gg/vBnEhuC)
 
