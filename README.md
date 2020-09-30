@@ -8,11 +8,11 @@
 
 <br>
 
-<br>
-
 <div align="center">
-	<img width="320px" src="https://raw.githubusercontent.com/androiddevnotes/androiddevnotes/master/assets/hacktoberfest2020.jpg" alt="Hacktoberfest 2020 logo"></img>   
+	<img src="https://raw.githubusercontent.com/androiddevnotes/androiddevnotes/master/assets/hacktoberfest2020.jpg" alt="Hacktoberfest 2020 logo"></img>   
 </div>
+
+<br>
 
 **Every Developer** can send the Pull Request and contribute. The repositories are beginner-friendly for Non-Android and Android Developers. Ask away your contributions questions on [Discord](https://discord.gg/vBnEhuC)
 
