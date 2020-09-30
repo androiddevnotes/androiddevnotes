@@ -8,17 +8,17 @@
 
 <br>
 
-**Every Developer** can send the Pull Request and contribute. The repositories are beginner-friendly for Non-Android and Android Developers. Ask away your contributions questions on [Discord](https://discord.gg/vBnEhuC)
-
-If you are a beginner, I will help you with the Pull Request or Contribution guide : )
-
-Hacktoberfest 2020: https://hacktoberfest.digitalocean.com/
-
 <br>
 
 <div align="center">
 	<img width="320px" src="https://raw.githubusercontent.com/androiddevnotes/androiddevnotes/master/assets/hacktoberfest2020.jpg" alt="Hacktoberfest 2020 logo"></img>   
 </div>
+
+**Every Developer** can send the Pull Request and contribute. The repositories are beginner-friendly for Non-Android and Android Developers. Ask away your contributions questions on [Discord](https://discord.gg/vBnEhuC)
+
+If you are a beginner, I will help you with the Pull Request or Contribution guide : )
+
+Hacktoberfest 2020: https://hacktoberfest.digitalocean.com/
 
 <br>
 
