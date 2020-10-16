@@ -42,6 +42,8 @@ Hacktoberfest 2020: https://hacktoberfest.digitalocean.com/
 
 ## :santa: Socials
 
+- [I write blogs at CodingWithMitch](http://codingwithmitch.com/blog/)
+
 - [GitHub](https://github.com/androiddevnotes)
 
 - [Discord](https://discord.gg/vBnEhuC)
@@ -53,7 +55,6 @@ Hacktoberfest 2020: https://hacktoberfest.digitalocean.com/
 - [YouTube](https://www.youtube.com/channel/UCQATLaT0xKkSm-KKVQzpu0Q)
 
 - [Medium](https://medium.com/@androiddevnotes)
-
 
 ## :memo: Contributing
 
