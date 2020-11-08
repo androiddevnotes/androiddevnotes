@@ -2,10 +2,11 @@
 
 </br>
 
-<p align="center">
+<div align="center">
+
 :robot: We create video content at Awesome Dev Notes YouTube concerning programming, research papers, patents, software practices, and Android. 
 
-</p>
+</div>
 
 <div align="center">
 
@@ -39,7 +40,11 @@
 
 <br>
 
+<div align="center">
+
 **Android Dev Notes** aims to be the starting point for Android App Developers to find the finest open-source projects, notes, tutorials, and tips and tricks.
+
+</div>
 
 ## :santa: Socials
 
