@@ -5,9 +5,13 @@
 <p align="center">
 :robot: We create video content at Awesome Dev Notes YouTube concerning programming, research papers, patents, software practices, and Android. 
 
+</p>
+
+<div align="center">
+
 **Thanks to** Narrators who narrate our video!
 
-</p>
+</div>
 
 <div align="center">
 
