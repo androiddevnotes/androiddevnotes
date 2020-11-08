@@ -5,6 +5,8 @@
 <p align="center">
 :robot: We create video content at Awesome Dev Notes YouTube concerning programming, research papers, patents, software practices, and Android. 
 
+**Thanks to** Narrators who narrate our video!
+
 </p>
 
 <div align="center">
@@ -17,13 +19,7 @@
 
 [![Understanding the internals of Glide Image Loading Library - Analyzing the Source Code](https://i.imgur.com/ETr5pG8.png)](http://www.youtube.com/watch?v=3o1kGd708a4 "Understanding the internals of Glide Image Loading Library - Analyzing the Source Code")
 
-<br>
-
-**Thanks to** Narrators who narrate our video!
-
-<br>
-
-<br>
+<br><br>
 
 <p align="center">
 :eyeglasses: Open-source Android Contributions
