@@ -3,22 +3,19 @@
 </br>
 
 <p align="center">
-:robot: Pull Requests for Hacktoberfest are Welcomed at Android Dev Notes!
+:robot: We create video content at Awesome Dev Notes YouTube concerning programming, research papers, patents, software practices, and Android. 
+
+[Awesome Dev Notes YouTube](https://www.youtube.com/c/awesomedevnotes)
+
 </p>
 
 <br>
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/androiddevnotes/androiddevnotes/master/assets/hacktoberfest2020.jpg" alt="Hacktoberfest 2020 logo"></img>   
-</div>
+[![Understanding the internals of Glide Image Loading Library - Analyzing the Source Code](https://i.imgur.com/ETr5pG8.png)](http://www.youtube.com/watch?v=3o1kGd708a4 "Understanding the internals of Glide Image Loading Library - Analyzing the Source Code")
 
 <br>
 
-**Every Developer** can send the Pull Request and contribute. The repositories are beginner-friendly for Non-Android and Android Developers. Ask away your contributions questions on [Discord](https://discord.gg/vBnEhuC)
-
-If you are a beginner, I will help you with the Pull Request or Contribution guide : )
-
-Hacktoberfest 2020: https://hacktoberfest.digitalocean.com/
+**Thanks to** Narrators who narrate our video!
 
 <br>
 
