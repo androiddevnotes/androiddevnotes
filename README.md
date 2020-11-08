@@ -5,7 +5,7 @@
 <p align="center">
 :robot: We create video content at Awesome Dev Notes YouTube concerning programming, research papers, patents, software practices, and Android. 
 
-[Awesome Dev Notes YouTube](https://www.youtube.com/c/awesomedevnotes)
+[Awesome Dev Notes](https://www.youtube.com/c/awesomedevnotes)
 
 </p>
 
