@@ -27,7 +27,7 @@
 <br><br>
 
 <p align="center">
-:eyeglasses: Open-source Android Contributions
+:eyeglasses: Open-source Android Contributions.
 </p>
 
 <br>
