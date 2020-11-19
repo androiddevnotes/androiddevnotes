@@ -44,12 +44,6 @@ The repo contains only links and no meta information like Title, Description for
 
 </div>
 
-<div align="center">
-
-[Awesome Dev Notes](https://www.youtube.com/c/awesomedevnotes)
-
-</div>
-
 <br>
 
 [![Understanding the internals of Glide Image Loading Library - Analyzing the Source Code](https://i.imgur.com/ETr5pG8.png)](http://www.youtube.com/watch?v=3o1kGd708a4 "Understanding the internals of Glide Image Loading Library - Analyzing the Source Code")
