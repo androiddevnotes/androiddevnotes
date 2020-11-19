@@ -22,13 +22,13 @@ The repo contains only links and no meta information like Title, Description for
 
 ![Android Sitemap](https://github.com/androiddevnotes/androiddevnotes/blob/master/assets/android-sitemap-official.png)
 
-<br>
+<br><br>
 
-<div align="center">
+<h3 align="center">
 
 [Awesome Dev Notes](https://www.youtube.com/c/awesomedevnotes)
 
-</div>
+</h3>
 
 <br>
 
