@@ -2,6 +2,36 @@
 
 </br>
 
+<h3 align="center">
+
+:eyeglasses: Android Sitemap - Every link ever to Android Developer site.
+
+</h3>
+
+<div align="center">
+
+**Android Sitemap** aims to be your starting point to find every link pointing to Android Developer sites: [Android Developers](https://developer.android.com/) and [Android Open Source Project](https://source.android.com/).
+
+The repo was created to see the full scope of Android documentation guides and reference APIs. Some gems like [API diff](https://github.com/androiddevnotes/android-sitemap/blob/main/sdk.md), [Android Open Source Project reference APIs](https://github.com/androiddevnotes/android-sitemap/blob/main/source-reference.md) were discovered in the process which I find very interesting.
+
+The repo contains only links and no meta information like Title, Description for now as there are 30000+ links.
+
+</div>
+
+<br>
+
+![Android Sitemap](https://github.com/androiddevnotes/androiddevnotes/blob/master/assets/android-sitemap-official.png)
+
+<br>
+
+<div align="center">
+
+[Awesome Dev Notes](https://www.youtube.com/c/awesomedevnotes)
+
+</div>
+
+<br>
+
 <div align="center">
 
 :robot: We create video content at Awesome Dev Notes YouTube concerning programming, research papers, patents, software practices, and Android. 
