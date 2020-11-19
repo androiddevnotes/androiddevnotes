@@ -20,7 +20,7 @@ The repo contains only links and no meta information like Title, Description for
 
 <br>
 
-![Android Sitemap](https://github.com/androiddevnotes/androiddevnotes/blob/master/assets/android-sitemap-official.png)
+[![Android Sitemap](https://github.com/androiddevnotes/androiddevnotes/blob/master/assets/android-sitemap-official.png)](https://github.com/androiddevnotes/android-sitemap)
 
 <br><br>
 
