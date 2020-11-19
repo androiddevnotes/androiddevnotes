@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-:eyeglasses: Android Sitemap - Every link ever to Android Developer site.
+[:eyeglasses: Android Sitemap - Every link ever to Android Developer site.](https://github.com/androiddevnotes/android-sitemap)
 
 </h3>
 
